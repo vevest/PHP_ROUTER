@@ -1,6 +1,6 @@
 # PHP_ROUTER
 
-## Clone the project to your local machine
+### Clone the project to your local machine
 
-## To run the project writh in the terminal
+### To run the project writh in the terminal
 ``Docker compose up --build``
