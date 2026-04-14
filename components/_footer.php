@@ -1,0 +1,7 @@
+<script src="/static/mixhtml.js"></script>
+<script src="/static/app.js"></script>
+
+
+
+</body>
+</html>
